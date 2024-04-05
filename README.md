@@ -1,1 +1,1 @@
-# Telas-Beebuddies
+Nesse projeto estão desenvolvidas algumas telas através da plataforma figma, essas telas tem a finalidade de auxiliar as alunas no design de um app para seu projeto integrador. Dentre essas telas teremos as telas de Login, Cadastro; Recuperação de Senha; Nosso Produto; Contatos; Sobre Nós; e Perfil; além do exemplo de como ficariam essas telas com o menu(hamburguer) aberto.
